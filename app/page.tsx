@@ -13,14 +13,14 @@ export default function Home() {
 					priority
 				/>
 				<ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-					<li className="mb-4">
-						Make conflict at here.
+					<li className="mb-2">
+						From CTU with love.
 						<code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
 							app/page.tsx
 						</code>
 						.
 					</li>
-					<li>Make conflict at here.</li>
+					<li>From CTU with love.</li>
 				</ol>
 
 				<div className="flex gap-4 items-center flex-col sm:flex-row">
